@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1729852683875" clover="3.2.0">
+  <project timestamp="1729852683875" name="All files">
+    <metrics statements="96" coveredstatements="86" conditionals="38" coveredconditionals="31" methods="18" coveredmethods="17" elements="152" coveredelements="134" complexity="0" loc="96" ncloc="96" packages="1" files="3" classes="3"/>
+    <file name="Scooter.js" path="C:\Users\brays\Documents\Mutliverse\scooter-project\classes\Scooter.js">
+      <metrics statements="38" coveredstatements="33" conditionals="18" coveredconditionals="13" methods="7" coveredmethods="7"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="10" type="stmt"/>
+      <line num="6" count="10" type="stmt"/>
+      <line num="7" count="10" type="stmt"/>
+      <line num="8" count="10" type="stmt"/>
+      <line num="9" count="10" type="stmt"/>
+      <line num="10" count="10" type="stmt"/>
+      <line num="14" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="18" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="38" count="5" type="stmt"/>
+      <line num="39" count="5" type="cond" truecount="1" falsecount="1"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="42" count="5" type="stmt"/>
+      <line num="44" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="52" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="53" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="67" count="2" type="stmt"/>
+    </file>
+    <file name="ScooterApp.js" path="C:\Users\brays\Documents\Mutliverse\scooter-project\classes\ScooterApp.js">
+      <metrics statements="47" coveredstatements="43" conditionals="16" coveredconditionals="15" methods="8" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="8" count="12" type="stmt"/>
+      <line num="15" count="12" type="stmt"/>
+      <line num="19" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="22" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="26" count="5" type="stmt"/>
+      <line num="27" count="5" type="stmt"/>
+      <line num="28" count="5" type="stmt"/>
+      <line num="29" count="5" type="stmt"/>
+      <line num="33" count="4" type="stmt"/>
+      <line num="35" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="48" count="2" type="stmt"/>
+      <line num="49" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="61" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="64" count="5" type="stmt"/>
+      <line num="65" count="5" type="stmt"/>
+      <line num="66" count="5" type="stmt"/>
+      <line num="67" count="5" type="stmt"/>
+      <line num="70" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="71" count="1" type="stmt"/>
+      <line num="73" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+      <line num="80" count="1" type="stmt"/>
+      <line num="84" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="85" count="1" type="stmt"/>
+      <line num="87" count="3" type="stmt"/>
+      <line num="88" count="3" type="stmt"/>
+      <line num="92" count="0" type="stmt"/>
+      <line num="93" count="0" type="stmt"/>
+      <line num="98" count="1" type="stmt"/>
+    </file>
+    <file name="User.js" path="C:\Users\brays\Documents\Mutliverse\scooter-project\classes\User.js">
+      <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <line num="4" count="25" type="stmt"/>
+      <line num="5" count="25" type="stmt"/>
+      <line num="6" count="25" type="stmt"/>
+      <line num="7" count="25" type="stmt"/>
+      <line num="11" count="6" type="cond" truecount="1" falsecount="1"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="14" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="24" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>

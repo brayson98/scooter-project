@@ -4,7 +4,8 @@
   "description": "An electric scooter hire app created using UML, TDD, and OOP.",
   "main": "classes/ScooterApp.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+     "test:coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
